@@ -7,7 +7,7 @@ We use `pipenv` to create a virtual environment and manage packages.
    pip install pipenv
 ```
 2. Navigate to the project directory
-3. active the virtual environment
+3. Active the virtual environment
 ```
    pipenv shell
 ```
@@ -15,7 +15,7 @@ We use `pipenv` to create a virtual environment and manage packages.
 ```
    pipenv install
 ```
-5. open Jupyter Notebook
+5. Open Jupyter Notebook
 ```
    pipenv run jupyter notebook
 ```
